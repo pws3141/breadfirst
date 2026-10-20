@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+site/
+.DS_Store
+
+# Listings state is committed (overrides a global **/data/* ignore)
+!data/
+!data/events.json

@@ -1,0 +1,65 @@
+name: Update listings
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # daily, ~05:00/06:00 Berlin
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-listings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -e '.[dev]'
+
+      - name: Test
+        run: pytest -q
+
+      - name: Scrape
+        # Only scheduled/manual runs scrape; a push just rebuilds from the committed data.
+        if: github.event_name != 'push'
+        run: python -m breadfirst scrape
+
+      - name: Build site
+        run: python -m breadfirst build
+
+      - name: Commit updated listings
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet data/events.json; then
+            echo "No listing changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/events.json
+            git commit -m "Update listings $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
