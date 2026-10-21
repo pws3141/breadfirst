@@ -2,7 +2,8 @@ name: Update listings
 
 on:
   schedule:
-    - cron: "0 4 * * *"  # daily, ~05:00/06:00 Berlin
+    # Daily, ~05:00/06:00 Berlin. Off the hour: GitHub drops/delays top-of-hour schedules under load.
+    - cron: "17 4 * * *"
   workflow_dispatch:
   push:
     branches: [main]

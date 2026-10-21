@@ -34,7 +34,7 @@ I assume there's no way to pull from these websites except manually, so I will n
   - If a venue's scrape fails or finds nothing, its previous listings are kept as they were.
   - Past gigs are removed.
 - `breadfirst/build.py`: renders `site/index.html`, the calendar view.
-- `.github/workflows/update.yml`: runs the scrape daily at 04:00 UTC (or on demand), commits any changes to the data and deploys `site/` to GitHub Pages.
+- `.github/workflows/update.yml`: runs the scrape daily at 04:17 UTC (or on demand), commits any changes to the data and deploys `site/` to GitHub Pages.
 
 ## Running locally
 
