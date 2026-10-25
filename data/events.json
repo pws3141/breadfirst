@@ -1,76 +1,6 @@
 {
-  "updated_at": "2026-10-24T10:52:58+02:00",
+  "updated_at": "2026-10-25T10:10:07+01:00",
   "events": [
-    {
-      "id": "lido:2026-10-24-m-dchenname-mademann",
-      "venue": "Lido",
-      "title": "MÄDCHENNAME MADEMANN",
-      "date": "2026-10-24",
-      "url": "https://www.lido-berlin.de/events/2026-10-24-m-dchenname-mademann",
-      "subtitle": "„Die Nacht der 1000 Biere\" · + Special Guest: LIMBOBOYS",
-      "doors": "18:30",
-      "start": "19:15",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-23"
-    },
-    {
-      "id": "prachtwerk:738114165788472",
-      "venue": "Prachtwerk",
-      "title": "NÉOMÍ",
-      "date": "2026-10-24",
-      "url": "https://www.facebook.com/events/738114165788472",
-      "subtitle": null,
-      "doors": "18:30",
-      "start": "19:30",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "id": "kantine:82658",
-      "venue": "Kantine am Berghain",
-      "title": "Deathrite + Raze",
-      "date": "2026-10-24",
-      "url": "https://www.berghain.berlin/de/event/82658/",
-      "subtitle": null,
-      "doors": "19:00",
-      "start": "20:00",
-      "status": "moved",
-      "status_note": "Verlegt in die Spirale",
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "id": "privatclub:20674",
-      "venue": "Privatclub",
-      "title": "JOEY JONES",
-      "date": "2026-10-24",
-      "url": "https://privatclub-berlin.de/event/joey-jones/",
-      "subtitle": "RECORD RELEASE SHOW | + Support",
-      "doors": "19:00",
-      "start": "20:00",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
-    },
-    {
-      "id": "gretchen:3506",
-      "venue": "Gretchen",
-      "title": "15 Years GRETCHEN: MARIA ARNAL",
-      "date": "2026-10-24",
-      "url": "https://www.gretchen-club.de/detail.php?id=3506",
-      "subtitle": null,
-      "doors": "19:30",
-      "start": "20:30",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
-    },
     {
       "id": "kantine:81990",
       "venue": "Kantine am Berghain",
@@ -83,7 +13,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20876",
@@ -97,7 +27,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3441",
@@ -139,7 +69,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21130",
@@ -153,7 +83,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "monarch:2026-10-27-bby",
@@ -167,7 +97,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:81838",
@@ -181,7 +111,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-10-27-dan-whitlam",
@@ -192,8 +122,8 @@
       "subtitle": "+ Support: EMILIA RENN",
       "doors": "19:00",
       "start": "20:00",
-      "status": "scheduled",
-      "status_note": null,
+      "status": "cancelled",
+      "status_note": "No longer listed",
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-24"
     },
@@ -209,7 +139,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3455",
@@ -237,7 +167,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-10-28-philipp-poisel",
@@ -251,7 +181,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3586",
@@ -279,7 +209,7 @@
       "status": "postponed",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-10-29-ryan-beatty",
@@ -293,7 +223,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1149208214351979",
@@ -307,7 +237,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20667",
@@ -321,7 +251,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3449",
@@ -349,7 +279,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-10-30-siovo",
@@ -363,7 +293,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20111",
@@ -377,7 +307,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3407",
@@ -405,7 +335,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:80615",
@@ -419,7 +349,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-10-31-de-staat",
@@ -433,7 +363,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1364221409238066",
@@ -447,7 +377,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3548",
@@ -475,7 +405,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82079",
@@ -489,7 +419,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-01-hi--spencer",
@@ -503,7 +433,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1451784513478387",
@@ -517,7 +447,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3517",
@@ -545,7 +475,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-02-conway-the-machine",
@@ -559,7 +489,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3489",
@@ -587,7 +517,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82049",
@@ -601,7 +531,7 @@
       "status": "moved",
       "status_note": "Verlegt ins Bi Nuu",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-03-panicbaby",
@@ -615,7 +545,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1086058443931948",
@@ -629,7 +559,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3495",
@@ -657,7 +587,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-04-death-valley-girls",
@@ -671,7 +601,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:998714799816386",
@@ -685,7 +615,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21161",
@@ -699,7 +629,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3554",
@@ -727,7 +657,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "monarch:2026-11-05-k-ssy",
@@ -741,7 +671,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82506",
@@ -755,7 +685,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-05-unnv",
@@ -769,7 +699,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:2206848840052378",
@@ -783,7 +713,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20380",
@@ -797,7 +727,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21181",
@@ -811,7 +741,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3543",
@@ -839,7 +769,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-11-westside-cowboys",
@@ -853,7 +783,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3527",
@@ -881,7 +811,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:4263322633958667",
@@ -895,7 +825,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3378",
@@ -923,7 +853,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-08-xandria",
@@ -937,7 +867,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20345",
@@ -951,7 +881,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3569",
@@ -979,7 +909,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21310",
@@ -993,7 +923,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82111",
@@ -1007,7 +937,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-10-sons-of-legion",
@@ -1021,7 +951,7 @@
       "status": "moved",
       "status_note": "HOCHVERLEGT IN DAS COLUMBIA THEATER",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21264",
@@ -1035,7 +965,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3447",
@@ -1063,7 +993,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3535",
@@ -1091,7 +1021,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21315",
@@ -1105,7 +1035,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1748446852832477",
@@ -1119,7 +1049,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82192",
@@ -1133,7 +1063,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-12-our-promise",
@@ -1147,7 +1077,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20932",
@@ -1161,7 +1091,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3452",
@@ -1189,7 +1119,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-13-jakuzi",
@@ -1203,7 +1133,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:19997",
@@ -1217,7 +1147,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3618",
@@ -1259,7 +1189,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-14-ultra-sunn",
@@ -1273,7 +1203,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1033746635801755",
@@ -1287,7 +1217,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21375",
@@ -1301,7 +1231,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21557",
@@ -1315,7 +1245,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3456",
@@ -1343,7 +1273,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-16-frankie-and-the-witch-fingers",
@@ -1357,7 +1287,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3592",
@@ -1385,7 +1315,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:81351",
@@ -1399,7 +1329,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-17-napa",
@@ -1413,7 +1343,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21553",
@@ -1427,7 +1357,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3482",
@@ -1455,7 +1385,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1768424684132917",
@@ -1469,7 +1399,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20435",
@@ -1483,7 +1413,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3516",
@@ -1511,7 +1441,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20752",
@@ -1525,7 +1455,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3622",
@@ -1553,7 +1483,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21656",
@@ -1567,7 +1497,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-20-cassia",
@@ -1581,7 +1511,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "prachtwerk:1397971655506728",
@@ -1595,7 +1525,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3502",
@@ -1623,7 +1553,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "monarch:2026-11-21-steve-clash",
@@ -1637,7 +1567,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:82137",
@@ -1651,7 +1581,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-21-allt",
@@ -1665,7 +1595,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20225",
@@ -1679,7 +1609,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:81363",
@@ -1693,7 +1623,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-22-chico-chico",
@@ -1707,7 +1637,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "lido:2026-11-23-chameleons",
@@ -1721,7 +1651,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "kantine:81917",
@@ -1735,7 +1665,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "monarch:2026-11-23-jumi",
@@ -1749,7 +1679,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:20763",
@@ -1763,7 +1693,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3524",
@@ -1791,7 +1721,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "gretchen:3435",
@@ -1819,7 +1749,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     {
       "id": "privatclub:21425",
@@ -1833,7 +1763,49 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
+    },
+    {
+      "id": "prachtwerk:1459461122116015",
+      "venue": "Prachtwerk",
+      "title": "Nothhingspecial",
+      "date": "2026-11-25",
+      "url": "https://www.facebook.com/events/1459461122116015",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": "19:30",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "id": "kantine:82431",
+      "venue": "Kantine am Berghain",
+      "title": "Felsmann + Tiley",
+      "date": "2026-11-25",
+      "url": "https://www.berghain.berlin/de/event/82431/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": "20:00",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
+    },
+    {
+      "id": "privatclub:20670",
+      "venue": "Privatclub",
+      "title": "ELL",
+      "date": "2026-11-25",
+      "url": "https://privatclub-berlin.de/event/ell/",
+      "subtitle": "der rocknroll ist tot",
+      "doors": "19:00",
+      "start": "20:00",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-25"
     }
   ]
 }
