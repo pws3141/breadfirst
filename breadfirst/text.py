@@ -24,6 +24,14 @@ _TITLE_SUFFIX = re.compile(
 )
 
 
+# Status put before a title, e.g. "!!AUSVERKAUFT!! Tim Vantol", "SOLD OUT: X", "ABGESAGT X",
+# "CANCELLED: X", "VERSCHOBEN IN DIE 8MM BAR: X". Without punctuation it must be shouted,
+# so a band called "Cancelled Plans" keeps its name.
+_TITLE_PREFIX = re.compile(
+    rf"^[!*\s]*((?:{_ANY_STATUS})(?:\s+in\s+[^:!]+(?=\s*:))?)(?:\s*([!:*]+)\s*|\s+)", re.IGNORECASE
+)
+
+
 def detect_status(*texts: str | None) -> Status | None:
     joined = " ".join(t for t in texts if t)
     for status, pattern in _STATUS_WORDS:
@@ -38,6 +46,14 @@ def split_status_suffix(title: str) -> tuple[str, str | None]:
     if not m:
         return title, None
     return title[: m.start()].strip(), m.group(1).strip()
+
+
+def split_status_prefix(title: str) -> tuple[str, str | None]:
+    """Return (title without status prefix, the prefix)."""
+    m = _TITLE_PREFIX.search(title)
+    if not m or not title[m.end():].strip() or not (m.group(2) or m.group(1).isupper()):
+        return title, None
+    return title[m.end():].strip(), m.group(1).strip()
 
 
 def status_note(suffix: str | None) -> str | None:

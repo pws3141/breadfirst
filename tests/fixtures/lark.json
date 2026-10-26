@@ -1,0 +1,394 @@
+[
+ {
+  "id": 7283,
+  "date": "2026-10-27T19:00:00",
+  "link": "https://larkberlin.com/event/greg-mendez-beauty-land-tour/",
+  "title": {
+   "rendered": "Greg Mendez &#8211; BEAUTY LAND TOUR +  Lily Seabird (support)"
+  },
+  "acf": {
+   "event_date": "2026-10-27 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://tickets.loft.de/event/greg-mendez-dktgho"
+  }
+ },
+ {
+  "id": 7268,
+  "date": "2026-10-29T19:00:00",
+  "link": "https://larkberlin.com/event/loukeman/",
+  "title": {
+   "rendered": "LOUKEMAN"
+  },
+  "acf": {
+   "event_date": "2026-10-29 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.ticketmaster.de/event/loukeman-tickets/632366967"
+  }
+ },
+ {
+  "id": 7641,
+  "date": "2026-10-30T19:00:00",
+  "link": "https://larkberlin.com/event/paul-freitag/",
+  "title": {
+   "rendered": "Paul Freitag"
+  },
+  "acf": {
+   "event_date": "2026-10-30 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://rausgegangen.de/en/events/paul-freitag-endlich-freitag-0/"
+  }
+ },
+ {
+  "id": 7484,
+  "date": "2026-10-31T19:00:00",
+  "link": "https://larkberlin.com/event/mgna-crrrta/",
+  "title": {
+   "rendered": "MGNA Crrrta"
+  },
+  "acf": {
+   "event_date": "2026-10-31 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim-light.com/de/a/64c297338bf0d973efeaa7c7/e/6a85baf6956ff16800bf0ce6"
+  }
+ },
+ {
+  "id": 7521,
+  "date": "2026-10-31T23:00:00",
+  "link": "https://larkberlin.com/event/vrauween-e0bd90e0bdb2-e2828d-cbaccbac-e2828e-e0bd8be0be80-2-clubs-queer-baile-funk/",
+  "title": {
+   "rendered": "VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK"
+  },
+  "acf": {
+   "event_date": "2026-10-31 23:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://fr.ra.co/events/2522049"
+  }
+ },
+ {
+  "id": 7573,
+  "date": "2026-11-01T18:00:00",
+  "link": "https://larkberlin.com/event/koepke-oll/",
+  "title": {
+   "rendered": "Koepke + OLL"
+  },
+  "acf": {
+   "event_date": "2026-11-01 18:00:00",
+   "event_status": "Scheduled",
+   "event_type": "Concert",
+   "event_tickets_url": "https://www.tickettailor.com/events/alexanderkpke/2364467"
+  }
+ },
+ {
+  "id": 7554,
+  "date": "2026-11-02T19:00:00",
+  "link": "https://larkberlin.com/event/d3lta/",
+  "title": {
+   "rendered": "D3lta"
+  },
+  "acf": {
+   "event_date": "2026-11-02 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "Concert",
+   "event_tickets_url": "https://www.eventbrite.com/e/d3lta-live-in-berlin-tickets-1998365199105"
+  }
+ },
+ {
+  "id": 7676,
+  "date": "2026-11-03T19:00:00",
+  "link": "https://larkberlin.com/event/brazen-barbie-hip-hop-aus-australien-europa-tournee/",
+  "title": {
+   "rendered": "Brazen Barbie (Hip Hop aus Australien) Europa Tournee"
+  },
+  "acf": {
+   "event_date": "2026-11-03 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": ""
+  }
+ },
+ {
+  "id": 7288,
+  "date": "2026-11-04T19:00:00",
+  "link": "https://larkberlin.com/event/vandalisbin/",
+  "title": {
+   "rendered": "Vandalisbin"
+  },
+  "acf": {
+   "event_date": "2026-11-04 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://tickets.loft.de/event/vandalisbin-n5gzjj"
+  }
+ },
+ {
+  "id": 7645,
+  "date": "2026-11-06T19:00:00",
+  "link": "https://larkberlin.com/event/234/",
+  "title": {
+   "rendered": "234"
+  },
+  "acf": {
+   "event_date": "2026-11-06 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/noapp/event/234-traenen-im-schal-release-konzert-lark-22153132/?affiliate=LAS&utm_campaign=Landstreicher+Konzerte&utm_source=LAS&utm_medium=dp"
+  }
+ },
+ {
+  "id": 7504,
+  "date": "2026-11-06T23:59:00",
+  "link": "https://larkberlin.com/event/disko-souk-john-morales/",
+  "title": {
+   "rendered": "Disko Souk &#038; John Morales"
+  },
+  "acf": {
+   "event_date": "2026-11-06 23:59:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://fr.ra.co/events/2526583"
+  }
+ },
+ {
+  "id": 7465,
+  "date": "2026-11-07T19:00:00",
+  "link": "https://larkberlin.com/event/cordoba78/",
+  "title": {
+   "rendered": "Cordoba78"
+  },
+  "acf": {
+   "event_date": "2026-11-07 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://tickets.loft.de/event/cordoba78-x2wl9i"
+  }
+ },
+ {
+  "id": 7500,
+  "date": "2026-11-08T19:00:00",
+  "link": "https://larkberlin.com/event/tasha/",
+  "title": {
+   "rendered": "TASHA"
+  },
+  "acf": {
+   "event_date": "2026-11-08 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.greyzone-tickets.de/produkte/1364"
+  }
+ },
+ {
+  "id": 7649,
+  "date": "2026-11-10T19:00:00",
+  "link": "https://larkberlin.com/event/worldpeace-dmt/",
+  "title": {
+   "rendered": "Worldpeace DMT"
+  },
+  "acf": {
+   "event_date": "2026-11-10 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.ticketmaster.de/event/worldpeace-dmt-tickets/467723978"
+  }
+ },
+ {
+  "id": 7371,
+  "date": "2026-11-11T19:00:00",
+  "link": "https://larkberlin.com/event/kilimanjaro/",
+  "title": {
+   "rendered": "KILIMANJARO"
+  },
+  "acf": {
+   "event_date": "2026-11-11 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://trinitymusic.de/event/2026-11-11-kilimanjaro"
+  }
+ },
+ {
+  "id": 7653,
+  "date": "2026-11-12T21:00:00",
+  "link": "https://larkberlin.com/event/wilt-thistle/",
+  "title": {
+   "rendered": "wilt +thistle."
+  },
+  "acf": {
+   "event_date": "2026-11-12 21:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/noapp/event/wilt-lark-21725093/?affiliate=SZ3&utm_campaign=SzeneTickets+GmbH&utm_source=SZ3&utm_medium=dp"
+  }
+ },
+ {
+  "id": 6943,
+  "date": "2026-11-13T18:30:00",
+  "link": "https://larkberlin.com/event/kids-with-buns/",
+  "title": {
+   "rendered": "Kids with Buns"
+  },
+  "acf": {
+   "event_date": "2026-11-13 18:30:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://tickets.loft.de/event/kids-with-buns-gry94p"
+  }
+ },
+ {
+  "id": 7221,
+  "date": "2026-11-14T19:00:00",
+  "link": "https://larkberlin.com/event/flower-face/",
+  "title": {
+   "rendered": "Flower Face SOLD OUT"
+  },
+  "acf": {
+   "event_date": "2026-11-14 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://tickets.loft.de/event/flower-face-cg2w88"
+  }
+ },
+ {
+  "id": 7667,
+  "date": "2026-11-14T23:59:00",
+  "link": "https://larkberlin.com/event/trina-after-dark/",
+  "title": {
+   "rendered": "TRINA After Dark"
+  },
+  "acf": {
+   "event_date": "2026-11-14 23:59:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://ra.co/events/2539443"
+  }
+ },
+ {
+  "id": 7254,
+  "date": "2026-11-15T19:00:00",
+  "link": "https://larkberlin.com/event/zascha-hot-mess-debut-at-lark/",
+  "title": {
+   "rendered": "Zascha HOT MESS Debut at Lark"
+  },
+  "acf": {
+   "event_date": "2026-11-15 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/event/zascha-hot-mess-debut-at-lark-berlin-lark-21615157/?srsltid=AfmBOoo5uOqQqazuU1VMQ8El1aYWIers-CEQ5BeMs4OzYxipwqjlPF87"
+  }
+ },
+ {
+  "id": 7229,
+  "date": "2026-11-16T19:00:00",
+  "link": "https://larkberlin.com/event/connor-kelly-the-time-warp-europe-2026/",
+  "title": {
+   "rendered": "Connor Kelly &#038; The Time Warp &#8211; Europe 2026"
+  },
+  "acf": {
+   "event_date": "2026-11-16 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/artist/connor-kelly-and-the-time-warp/?affiliate=TUG&srsltid=AfmBOopsg4kbWVyd8QiGFO4Dq_EqJFzQvuyYxxMIbV2KeRShz-zgrEpc"
+  }
+ },
+ {
+  "id": 7375,
+  "date": "2026-11-17T19:00:00",
+  "link": "https://larkberlin.com/event/dave-lofts/",
+  "title": {
+   "rendered": "Dave Lofts"
+  },
+  "acf": {
+   "event_date": "2026-11-17 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.schoneberg.de/artist/dave-lofts/"
+  }
+ },
+ {
+  "id": 7657,
+  "date": "2026-11-18T19:00:00",
+  "link": "https://larkberlin.com/event/nicky-miller-release-film-party-petit-dejeuner/",
+  "title": {
+   "rendered": "Nicky Miller Release Film Party: PETIT DÉJEUNER"
+  },
+  "acf": {
+   "event_date": "2026-11-18 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": ""
+  }
+ },
+ {
+  "id": 7458,
+  "date": "2026-11-19T19:00:00",
+  "link": "https://larkberlin.com/event/angrierthanever/",
+  "title": {
+   "rendered": "angrierthanever"
+  },
+  "acf": {
+   "event_date": "2026-11-19 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://rausgegangen.de/en/events/angrierthanever-showcase-no-4-berlin-0/"
+  }
+ },
+ {
+  "id": 7661,
+  "date": "2026-11-20T19:00:00",
+  "link": "https://larkberlin.com/event/aupinard-spleen-social-club-tour/",
+  "title": {
+   "rendered": "aupinard &#8211; &#8220;spleen. social club&#8221; Tour"
+  },
+  "acf": {
+   "event_date": "2026-11-20 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/event/aupinard-spleen-social-club-tour-lark-21708520/?affiliate=TUG&srsltid=AU7gw4U6_4-P__AfEMlA4Inbl_WktGrscSkqtUjLaWivkD0YzYemoUx-"
+  }
+ },
+ {
+  "id": 7200,
+  "date": "2026-11-22T19:00:00",
+  "link": "https://larkberlin.com/event/david-mccredie/",
+  "title": {
+   "rendered": "David McCredie"
+  },
+  "acf": {
+   "event_date": "2026-11-22 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/event/david-mccredie-lark-21645430/"
+  }
+ },
+ {
+  "id": 7672,
+  "date": "2026-11-23T19:00:00",
+  "link": "https://larkberlin.com/event/nokia-angel-necromance-tour/",
+  "title": {
+   "rendered": "Nokia Angel &#8211; NECROMANCE TOUR"
+  },
+  "acf": {
+   "event_date": "2026-11-23 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://ra.co/events/2561315"
+  }
+ },
+ {
+  "id": 7449,
+  "date": "2026-11-25T19:00:00",
+  "link": "https://larkberlin.com/event/dizzy-dros/",
+  "title": {
+   "rendered": "DIZZY DROS"
+  },
+  "acf": {
+   "event_date": "2026-11-25 19:00:00",
+   "event_status": "Scheduled",
+   "event_type": "",
+   "event_tickets_url": "https://www.eventim.de/noapp/event/dizzy-dros-lark-21985633/?affiliate=SZ3&utm_campaign=SzeneTickets+GmbH&utm_source=SZ3&utm_medium=dp"
+  }
+ }
+]

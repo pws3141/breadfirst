@@ -21,6 +21,12 @@ VENUE_SITES = {
     "Monarch": "https://kottimonarch.de/",
     "Privatclub": "https://privatclub-berlin.de/",
     "Gretchen": "https://www.gretchen-club.de/",
+    "Donau115": "https://donau115.de/",
+    "Sowieso": "https://www.sowiesoberlin.com/",
+    "Neue Zukunft": "https://neue-zukunft.org/konzerte.html",
+    "Lark": "https://larkberlin.com/events/",
+    "Hole44": "https://hole-berlin.de/",
+    "Insel": "https://www.inselberlin.de/",
 }
 
 STATUS_LABELS = {
