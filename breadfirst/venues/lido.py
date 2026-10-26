@@ -1,9 +1,10 @@
 from __future__ import annotations
 
 import re
-from datetime import datetime
+from datetime import date, datetime
 from urllib.parse import urljoin
 
+import httpx
 from bs4 import BeautifulSoup
 
 from .. import web
@@ -20,23 +21,49 @@ _STATUS_LABELS = {
     "abgesagt": Status.CANCELLED,
 }
 
+_MONTHS = {
+    m: i
+    for i, m in enumerate(
+        ["januar", "februar", "märz", "april", "mai", "juni", "juli",
+         "august", "september", "oktober", "november", "dezember"],
+        start=1,
+    )
+}
+
 
 def fetch() -> str:
     # Labels ("Konzert", "Ausverkauft") follow Accept-Language, which web.get pins to German.
-    return web.get(SOURCE_URL)
+    soup = BeautifulSoup(web.get(SOURCE_URL), "lxml")
+    # The next event (today's, or days away if there's a gap) is taken out of the list and
+    # shown only in the teaser, without its type or start time. Its own page has the full
+    # ticket, so graft that into the teaser for parse() to pick up.
+    link = soup.select_one(".teaser__next-events__wrapper__event a[href]")
+    if link:
+        try:
+            page = BeautifulSoup(web.get(urljoin(SOURCE_URL, link["href"])), "lxml")
+        except httpx.HTTPError:
+            page = None
+        ticket = page and page.select_one("article.event > header.event-ticket")
+        if ticket:
+            link.find_parent(class_="teaser__next-events__wrapper__event").append(ticket)
+    return str(soup)
 
 
 def parse(raw: str) -> list[Event]:
     soup = BeautifulSoup(raw, "lxml")
     events = []
-    # Today's event is only in the teaser block; it was already picked up on earlier runs.
-    for card in soup.select("div.event-list > article.event-ticket"):
+    seen = set()
+    for card in soup.select(
+        "div.event-list > article.event-ticket, .teaser__next-events__wrapper__event > header.event-ticket"
+    ):
         kind = card.select_one(".event-ticket__type__label")
         if not kind or kind.get_text(strip=True).lower() != "konzert":
             continue
         link = card.select_one("h1.event-ticket__content__title a")
-        # The date in the URL is unreliable; data-realdate is the doors time with offset.
-        when = datetime.strptime(card["data-realdate"], "%Y-%m-%d %H:%M:%S %z")
+        if link["href"] in seen:
+            continue
+        seen.add(link["href"])
+        day, realdoors = _when(card)
 
         times = {}
         for t in card.select(".event-ticket__meta--desktop .event-ticket__meta__times__time"):
@@ -66,8 +93,8 @@ def parse(raw: str) -> list[Event]:
                 venue=VENUE,
                 title=clean(link.get_text()),
                 subtitle=subtitle,
-                date=when.date(),
-                doors=times.get("einlass") or when.strftime("%H:%M"),
+                date=day,
+                doors=times.get("einlass") or realdoors,
                 start=times.get("start"),
                 url=urljoin(SOURCE_URL, href),
                 status=status,
@@ -75,3 +102,16 @@ def parse(raw: str) -> list[Event]:
             )
         )
     return events
+
+
+
+def _when(card) -> tuple[date, str | None]:
+    """(date, doors time if known)."""
+    # The date in the URL is unreliable. List cards have data-realdate (doors time with
+    # offset); the ticket from an event's own page only has the visible day/month/year.
+    if card.has_attr("data-realdate"):
+        when = datetime.strptime(card["data-realdate"], "%Y-%m-%d %H:%M:%S %z")
+        return when.date(), when.strftime("%H:%M")
+    meta = card.select_one(".event-ticket__meta--desktop .event-ticket__meta__date")
+    part = lambda name: meta.select_one(f".event-ticket__meta__date__{name}").get_text(strip=True)
+    return date(int(part("year")), _MONTHS[part("month").lower()], int(part("day"))), None

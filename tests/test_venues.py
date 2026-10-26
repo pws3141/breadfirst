@@ -31,6 +31,14 @@ def test_lido():
     assert "AUSVERKAUFT" not in (events["KAYLA SHYX"].subtitle or "")
 
 
+def test_lido_teaser():
+    # With no gigs Sun/Mon, Tuesday's was only in the teaser; fetch() grafts in its ticket.
+    events = load("lido_teaser", lido)
+    dan = events["DAN WHITLAM"]
+    assert (dan.date, dan.doors, dan.start, dan.status) == (date(2026, 10, 27), "19:00", "20:00", Status.SCHEDULED)
+    assert dan.subtitle == "+ Support: EMILIA RENN"
+
+
 def test_lido_skips_parties():
     events = lido.parse((FIXTURES / "lido.html").read_text())
     assert len(events) < 100  # the page lists 100 events, 16 or so are parties
