@@ -1,61 +1,19 @@
 {
-  "updated_at": "2026-10-26T13:54:02+01:00",
+  "updated_at": "2026-10-27T10:49:21+01:00",
   "events": [
     {
-      "id": "neuezukunft:02c95502-cba8-47bb-86eb-ddc05a4e6d88",
-      "venue": "Neue Zukunft",
-      "title": "Jeffrey Lewis",
-      "date": "2026-10-26",
-      "url": "https://dice.fm/event/bb92xx-jeffrey-lewis-26th-oct-neue-zukunft-berlin-tickets?lng=de",
-      "subtitle": null,
+      "id": "lark:7283",
+      "venue": "Lark",
+      "title": "Greg Mendez",
+      "date": "2026-10-27",
+      "url": "https://larkberlin.com/event/greg-mendez-beauty-land-tour/",
+      "subtitle": "BEAUTY LAND TOUR · + Lily Seabird",
       "doors": "19:00",
       "start": null,
       "status": "scheduled",
       "status_note": null,
-      "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
-    },
-    {
-      "id": "gretchen:3339",
-      "venue": "Gretchen",
-      "title": "Greyzone presents: BERWYN",
-      "date": "2026-10-26",
-      "url": "https://www.gretchen-club.de/detail.php?id=3339",
-      "subtitle": null,
-      "doors": "19:00",
-      "start": "20:00",
-      "status": "cancelled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
-    },
-    {
-      "id": "kantine:82225",
-      "venue": "Kantine am Berghain",
-      "title": "lots of hands",
-      "date": "2026-10-26",
-      "url": "https://www.berghain.berlin/de/event/82225/",
-      "subtitle": "olafur mowa",
-      "doors": "19:00",
-      "start": "20:00",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
-    },
-    {
-      "id": "privatclub:21130",
-      "venue": "Privatclub",
-      "title": "HYD",
-      "date": "2026-10-26",
-      "url": "https://privatclub-berlin.de/event/hyd/",
-      "subtitle": "Infinity Tour",
-      "doors": "19:00",
-      "start": "20:00",
-      "status": "scheduled",
-      "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-10-27-bby",
@@ -69,7 +27,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:23b86831-91ac-4514-bfe0-433eb2df77b4",
@@ -83,7 +41,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-10-27-wolves-in-the-throne-room",
@@ -97,7 +55,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--kfZVYSdB2KRUwYwr",
@@ -111,7 +69,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81838",
@@ -125,7 +83,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-10-27-dan-whitlam",
@@ -139,7 +97,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20838",
@@ -153,7 +111,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3455",
@@ -167,7 +125,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:313e678e-7cce-458b-93b0-360c12a7f9b6",
@@ -181,7 +139,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:873104f9-b89e-4ff5-aaee-7c3b50a2a931",
@@ -195,7 +153,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P0vfbBMljr_nQHnTuQA",
@@ -209,7 +167,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-10-28-the-home-team",
@@ -223,7 +181,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82476",
@@ -237,7 +195,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-10-28-philipp-poisel",
@@ -251,7 +209,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3586",
@@ -265,7 +223,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:7171add9-ea50-48c4-bf35-1219b5ac0ba0:2026-10-28",
@@ -279,7 +237,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-10-28-rasten-bromander-judith-hamann",
@@ -293,7 +251,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7268",
+      "venue": "Lark",
+      "title": "LOUKEMAN",
+      "date": "2026-10-29",
+      "url": "https://larkberlin.com/event/loukeman/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:1ca03596-2045-4229-86ae-3935d91a6df0",
@@ -307,7 +279,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--lmmSLQPUUMT_UtOX",
@@ -321,7 +293,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-10-29-kate-ryan",
@@ -335,7 +307,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81567",
@@ -349,7 +321,7 @@
       "status": "postponed",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-10-29-ryan-beatty",
@@ -363,7 +335,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1149208214351979",
@@ -377,7 +349,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20667",
@@ -391,7 +363,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3449",
@@ -405,7 +377,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7641",
+      "venue": "Lark",
+      "title": "Paul Freitag",
+      "date": "2026-10-30",
+      "url": "https://larkberlin.com/event/paul-freitag/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:8f02a560-0049-40c8-845b-6b37cc62ba3c",
@@ -419,7 +405,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:6dcd2919-e61a-4646-8848-3e0f991b2317",
@@ -433,7 +419,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1_LnZlKuQqApjVo1XG",
@@ -447,7 +433,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-10-30-the-risen-dread-syridas",
@@ -461,7 +447,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-10-30-deloraine",
@@ -475,7 +461,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81644",
@@ -489,7 +475,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-10-30-siovo",
@@ -503,7 +489,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20111",
@@ -517,7 +503,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3407",
@@ -531,7 +517,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-10-30-fanny-m-teier-foster-griener",
@@ -545,7 +531,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:de03d4c1-b8ca-4b96-9ee5-825413ecb5df",
@@ -559,7 +545,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7484",
+      "venue": "Lark",
+      "title": "MGNA Crrrta",
+      "date": "2026-10-31",
+      "url": "https://larkberlin.com/event/mgna-crrrta/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1UaDcmbQUj_fAJtaoW",
@@ -573,7 +573,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20953",
@@ -587,7 +587,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-10-31-jero19",
@@ -601,7 +601,7 @@
       "status": "postponed",
       "status_note": "Verschoben auf den 23.01.2027",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-10-31-brosie-de",
@@ -615,7 +615,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:80615",
@@ -629,7 +629,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-10-31-de-staat",
@@ -643,7 +643,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1364221409238066",
@@ -657,7 +657,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3548",
@@ -671,7 +671,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-10-31-rose-scott-kneer-uchihashi",
@@ -685,21 +685,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
-      "id": "privatclub:21143",
-      "venue": "Privatclub",
-      "title": "Beyond Border",
+      "id": "lark:7573",
+      "venue": "Lark",
+      "title": "Koepke",
       "date": "2026-11-01",
-      "url": "https://privatclub-berlin.de/event/beyond-border-2/",
-      "subtitle": "Aftermath Tour 2026 | Support: Trio Million Miles to success + Modular",
+      "url": "https://larkberlin.com/event/koepke-oll/",
+      "subtitle": "+ OLL",
       "doors": "18:00",
-      "start": "18:30",
+      "start": null,
       "status": "scheduled",
       "status_note": null,
-      "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:7aed2640-cf49-473e-9bfe-6edf8a4b52a0",
@@ -713,7 +713,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "privatclub:21143",
+      "venue": "Privatclub",
+      "title": "Beyond Border",
+      "date": "2026-11-01",
+      "url": "https://privatclub-berlin.de/event/beyond-border-2/",
+      "subtitle": "Aftermath Tour 2026 | Support: Trio Million Miles to success",
+      "doors": "18:30",
+      "start": "19:20",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82079",
@@ -727,7 +741,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-01-hi--spencer",
@@ -741,7 +755,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1451784513478387",
@@ -755,7 +769,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3517",
@@ -769,7 +783,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7554",
+      "venue": "Lark",
+      "title": "D3lta",
+      "date": "2026-11-02",
+      "url": "https://larkberlin.com/event/d3lta/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81967",
@@ -783,7 +811,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-02-conway-the-machine",
@@ -797,7 +825,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:4b0b71c3-a99a-44d1-8359-12ab053c9de7",
@@ -811,7 +839,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3489",
@@ -825,7 +853,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7676",
+      "venue": "Lark",
+      "title": "Brazen Barbie (Hip Hop aus Australien) Europa Tournee",
+      "date": "2026-11-03",
+      "url": "https://larkberlin.com/event/brazen-barbie-hip-hop-aus-australien-europa-tournee/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:ba69aa44-7a30-4e13-91df-9d1df808e857",
@@ -839,7 +881,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--kjOYpnrgjAC4yeYH",
@@ -853,7 +895,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-03-underscores",
@@ -867,7 +909,7 @@
       "status": "moved",
       "status_note": "Das Konzert wird ins Metropol verlegt",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-03-zimmer90",
@@ -881,7 +923,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-03-decipher",
@@ -895,7 +937,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82639",
@@ -909,7 +951,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82049",
@@ -923,7 +965,7 @@
       "status": "moved",
       "status_note": "Verlegt ins Bi Nuu",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-03-panicbaby",
@@ -937,7 +979,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1086058443931948",
@@ -951,7 +993,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3495",
@@ -965,7 +1007,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7288",
+      "venue": "Lark",
+      "title": "Vandalisbin",
+      "date": "2026-11-04",
+      "url": "https://larkberlin.com/event/vandalisbin/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-04-quiet-light",
@@ -979,7 +1035,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:093bdb95-43aa-4a81-baf3-18fbc810ff86",
@@ -993,7 +1049,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:18f28992-3cd2-4a76-af20-7914a06b2fe0",
@@ -1007,7 +1063,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1Wprl7WAvtuJ_1EEci",
@@ -1021,7 +1077,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-04-sharaktah",
@@ -1035,7 +1091,7 @@
       "status": "moved",
       "status_note": "Die Show wird aus dem Hole44 in das Mikropol verlegt",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-04-kyle-alessandro",
@@ -1049,7 +1105,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-04-noah-guthrie",
@@ -1063,7 +1119,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-04-death-valley-girls",
@@ -1077,7 +1133,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:998714799816386",
@@ -1091,7 +1147,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21161",
@@ -1105,7 +1161,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3554",
@@ -1119,7 +1175,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81382",
@@ -1133,7 +1189,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:161c9267-49e6-43a1-9bf9-8bb6805d10ca:2026-11-04",
@@ -1147,7 +1203,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-04-ldson-galter-reinaldo-boaventura",
@@ -1161,7 +1217,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-05-k-ssy",
@@ -1175,7 +1231,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:c3270209-e279-40bf-881c-a6584b69590d",
@@ -1189,7 +1245,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--lpep_B5BgDha4Dnr",
@@ -1203,7 +1259,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-05-mietze-conte",
@@ -1217,7 +1273,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82506",
@@ -1231,7 +1287,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-05-unnv",
@@ -1245,7 +1301,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:2206848840052378",
@@ -1259,7 +1315,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20380",
@@ -1273,7 +1329,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21181",
@@ -1287,7 +1343,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3543",
@@ -1301,7 +1357,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-05-stemeseder-delius-henkelhausen-lillinger",
@@ -1315,7 +1371,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7645",
+      "venue": "Lark",
+      "title": "234",
+      "date": "2026-11-06",
+      "url": "https://larkberlin.com/event/234/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-06-frau-mansmann",
@@ -1329,7 +1399,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:e34a7706-8d1e-4cac-9333-82da8f7f7023",
@@ -1343,7 +1413,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1Z8BR0DcyHYpSScA12",
@@ -1357,7 +1427,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-06-jonny5",
@@ -1371,7 +1441,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-06-die-weiteren-aussichten",
@@ -1385,7 +1455,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-11-westside-cowboys",
@@ -1399,7 +1469,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3527",
@@ -1413,7 +1483,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-06-booklet",
@@ -1427,7 +1497,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81253",
@@ -1441,7 +1511,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7465",
+      "venue": "Lark",
+      "title": "Cordoba78",
+      "date": "2026-11-07",
+      "url": "https://larkberlin.com/event/cordoba78/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:783bacfe-bc61-41f5-b730-e02dda9e8b37",
@@ -1455,7 +1539,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-OtDowffl6dCYL4SSJlh",
@@ -1469,7 +1553,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:4263322633958667",
@@ -1483,7 +1567,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3378",
@@ -1497,7 +1581,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-07-april-art",
@@ -1511,7 +1595,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:19994",
@@ -1525,7 +1609,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-07-declan-forde-james-banner",
@@ -1539,7 +1623,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7500",
+      "venue": "Lark",
+      "title": "TASHA",
+      "date": "2026-11-08",
+      "url": "https://larkberlin.com/event/tasha/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:a9b7ce99-37d1-4b03-b6f6-c1aecbeb43c1",
@@ -1553,7 +1651,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1Win-uaLNyUFpsK_AQ",
@@ -1567,7 +1665,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-08-xandria",
@@ -1581,7 +1679,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-08-undacava",
@@ -1595,7 +1693,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20345",
@@ -1609,7 +1707,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3569",
@@ -1623,7 +1721,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82023",
@@ -1637,7 +1735,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21310",
@@ -1651,7 +1749,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7649",
+      "venue": "Lark",
+      "title": "Worldpeace DMT",
+      "date": "2026-11-10",
+      "url": "https://larkberlin.com/event/worldpeace-dmt/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:edc896f7-02ab-4902-aaae-d5baf4316141",
@@ -1665,7 +1777,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:7c7a2001-f09f-44be-9e77-dec88680b4e2",
@@ -1679,7 +1791,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--kn0ahdOJlm0nVoLG",
@@ -1693,7 +1805,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-10-madame-whiskey",
@@ -1707,7 +1819,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82111",
@@ -1721,7 +1833,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-10-sons-of-legion",
@@ -1735,7 +1847,7 @@
       "status": "moved",
       "status_note": "HOCHVERLEGT IN DAS COLUMBIA THEATER",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21264",
@@ -1749,7 +1861,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3447",
@@ -1763,7 +1875,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7371",
+      "venue": "Lark",
+      "title": "KILIMANJARO",
+      "date": "2026-11-11",
+      "url": "https://larkberlin.com/event/kilimanjaro/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:2affc40c-a5a8-49f1-aa9e-ab6ea64e57f1",
@@ -1777,7 +1903,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P2hvI534PN3GJoJ_knQ",
@@ -1791,7 +1917,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1455260426289327",
@@ -1805,7 +1931,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3535",
@@ -1819,7 +1945,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-11-son-mieux",
@@ -1833,7 +1959,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82751",
@@ -1847,7 +1973,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21315",
@@ -1861,7 +1987,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:7c65e13b-2c52-4fc9-9a8e-048042f61a56:2026-11-11",
@@ -1875,7 +2001,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-11-aki-takase-alexander-von-schlippenbach",
@@ -1889,7 +2015,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:c41e4c3f-d914-46d4-ad24-bb74358c00fa",
@@ -1903,7 +2029,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1748446852832477",
@@ -1917,7 +2043,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--lshnCruQPe_mHmC5",
@@ -1931,7 +2057,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-12-ash",
@@ -1945,7 +2071,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-12-isaac-jensen",
@@ -1959,7 +2085,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82192",
@@ -1973,7 +2099,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-12-our-promise",
@@ -1987,7 +2113,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20932",
@@ -2001,7 +2127,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3452",
@@ -2015,7 +2141,35 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7653",
+      "venue": "Lark",
+      "title": "wilt",
+      "date": "2026-11-12",
+      "url": "https://larkberlin.com/event/wilt-thistle/",
+      "subtitle": "+ thistle.",
+      "doors": "21:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:6943",
+      "venue": "Lark",
+      "title": "Kids with Buns",
+      "date": "2026-11-13",
+      "url": "https://larkberlin.com/event/kids-with-buns/",
+      "subtitle": null,
+      "doors": "18:30",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:560d4eb3-82dd-4299-b9fe-03064357fab4",
@@ -2029,7 +2183,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:e48b4f19-912e-4625-b586-e0e94870b368",
@@ -2043,7 +2197,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P4Ztl2W9gCp47FOJvuU",
@@ -2057,7 +2211,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-13-dari",
@@ -2071,7 +2225,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81966",
@@ -2085,7 +2239,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-13-jakuzi",
@@ -2099,7 +2253,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:19997",
@@ -2113,7 +2267,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-13-die-entt-uschung",
@@ -2127,7 +2281,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3618",
@@ -2141,7 +2295,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3434",
@@ -2155,7 +2309,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7221",
+      "venue": "Lark",
+      "title": "Flower Face",
+      "date": "2026-11-14",
+      "url": "https://larkberlin.com/event/flower-face/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "sold_out",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-14-really-good-time",
@@ -2169,7 +2337,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-OuX8tf4UPjTnf_fLw9B",
@@ -2183,7 +2351,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-14-ultra-sunn",
@@ -2197,7 +2365,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1033746635801755",
@@ -2211,7 +2379,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-14-massendefekt",
@@ -2225,7 +2393,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21375",
@@ -2239,7 +2407,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-14-echoes-of-evolution",
@@ -2253,7 +2421,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-15-stimmen-der-freiheit-komponistinnen-im-einsatz-f-r-demokratische-werte",
@@ -2267,7 +2435,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7254",
+      "venue": "Lark",
+      "title": "Zascha HOT MESS Debut at Lark",
+      "date": "2026-11-15",
+      "url": "https://larkberlin.com/event/zascha-hot-mess-debut-at-lark/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:b6da6ecc-eed4-48a0-9ff1-5469c62fb309",
@@ -2281,7 +2463,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:0292de53-cc1a-4fc7-ad12-835cdd8b823c",
@@ -2295,7 +2477,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P1Z9QQ2zQ9UK97M3wgd",
@@ -2309,7 +2491,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21557",
@@ -2323,7 +2505,7 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3456",
@@ -2334,10 +2516,10 @@
       "subtitle": null,
       "doors": "19:30",
       "start": "20:30",
-      "status": "scheduled",
+      "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-15-ceren",
@@ -2351,7 +2533,21 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7229",
+      "venue": "Lark",
+      "title": "Connor Kelly & The Time Warp",
+      "date": "2026-11-16",
+      "url": "https://larkberlin.com/event/connor-kelly-the-time-warp-europe-2026/",
+      "subtitle": "Europe 2026",
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:a3266cde-15d7-4de4-b9f2-b67c65c6ff5b",
@@ -2365,7 +2561,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-16-frankie-and-the-witch-fingers",
@@ -2379,7 +2575,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3592",
@@ -2393,7 +2589,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82112",
@@ -2407,7 +2603,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7375",
+      "venue": "Lark",
+      "title": "Dave Lofts",
+      "date": "2026-11-17",
+      "url": "https://larkberlin.com/event/dave-lofts/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:348d7030-a392-4125-bfb9-9e91db70c936",
@@ -2421,7 +2631,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--kr9cD2ZBEL2mR0mB",
@@ -2435,7 +2645,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-17-the-wedding-present",
@@ -2449,7 +2659,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81351",
@@ -2463,7 +2673,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-17-napa",
@@ -2477,7 +2687,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21553",
@@ -2491,7 +2701,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3482",
@@ -2505,7 +2715,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-18-evergrey",
@@ -2519,7 +2729,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:2e78f5c8-4ab1-4c10-99c6-d1e375539eb5",
@@ -2533,7 +2743,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:32cda9d3-f255-4bce-872d-dd54a58475b4",
@@ -2547,7 +2757,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-OysmiF_zcAMPxzjAFHN",
@@ -2561,7 +2771,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81811",
@@ -2575,7 +2785,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1768424684132917",
@@ -2589,7 +2799,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20435",
@@ -2603,7 +2813,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3516",
@@ -2617,7 +2827,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:f733b55d-1ca4-4fde-8e7c-10feddf336a5:2026-11-18",
@@ -2631,7 +2841,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-18-maccabee-marino-walker",
@@ -2645,7 +2855,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7458",
+      "venue": "Lark",
+      "title": "angrierthanever",
+      "date": "2026-11-19",
+      "url": "https://larkberlin.com/event/angrierthanever/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:dc6bc9fe-d4a6-4b07-a37b-b35c2bb35dc7",
@@ -2659,7 +2883,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:77ec81c9-1840-4bcf-83f1-0c691ccb516e",
@@ -2673,7 +2897,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--lvw_dTzTxvnj2-wG",
@@ -2687,7 +2911,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-19-digital-stars-miku-expo",
@@ -2701,7 +2925,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:83202",
@@ -2715,7 +2939,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1096396723117772",
@@ -2729,7 +2953,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20752",
@@ -2743,7 +2967,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3622",
@@ -2757,7 +2981,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-19-deranged-particles",
@@ -2771,7 +2995,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-20-cris-cosmo",
@@ -2785,7 +3009,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7661",
+      "venue": "Lark",
+      "title": "aupinard",
+      "date": "2026-11-20",
+      "url": "https://larkberlin.com/event/aupinard-spleen-social-club-tour/",
+      "subtitle": "“spleen. social club” Tour",
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:45d574af-21f5-462c-8bf9-749e56e2837c",
@@ -2799,7 +3037,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P2RcPWXTEcXoiq4vJDv",
@@ -2813,7 +3051,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21656",
@@ -2827,7 +3065,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-20-luke-combs-uk-tribute",
@@ -2841,7 +3079,7 @@
       "status": "moved",
       "status_note": "Die Veranstaltung wird ins Metropol verlegt",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-20-neoni",
@@ -2855,7 +3093,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-20-marlin-beach",
@@ -2869,7 +3107,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-20-cassia",
@@ -2883,7 +3121,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1397971655506728",
@@ -2897,7 +3135,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3502",
@@ -2911,7 +3149,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "sowieso:2026-11-20-fare",
@@ -2925,7 +3163,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1545922950568977",
@@ -2939,7 +3177,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-21-steve-clash",
@@ -2953,7 +3191,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:c30f07d2-3889-4055-84f0-93a60acf8fda",
@@ -2967,7 +3205,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:3655eae8-7609-43ac-bde3-0323e5456aac",
@@ -2981,7 +3219,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P35Gfg46jfKKIWlS4Mh",
@@ -2995,7 +3233,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-21-tanzwut",
@@ -3009,7 +3247,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-21-ice-sealed-eyes",
@@ -3023,7 +3261,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82137",
@@ -3037,7 +3275,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-21-allt",
@@ -3051,7 +3289,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20225",
@@ -3065,7 +3303,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-22-zelo",
@@ -3079,7 +3317,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7200",
+      "venue": "Lark",
+      "title": "David McCredie",
+      "date": "2026-11-22",
+      "url": "https://larkberlin.com/event/david-mccredie/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:ccd3c397-a491-4e1a-8be3-46e32b864085",
@@ -3093,7 +3345,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-22-genesis-owusu",
@@ -3107,7 +3359,7 @@
       "status": "moved",
       "status_note": "Das Konzert wird vom Hole ins Metropol verlegt",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-22-marita",
@@ -3121,7 +3373,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81363",
@@ -3135,7 +3387,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-22-chico-chico",
@@ -3149,7 +3401,21 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7672",
+      "venue": "Lark",
+      "title": "Nokia Angel",
+      "date": "2026-11-23",
+      "url": "https://larkberlin.com/event/nokia-angel-necromance-tour/",
+      "subtitle": "NECROMANCE TOUR",
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-23-chameleons",
@@ -3163,7 +3429,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:81917",
@@ -3177,7 +3443,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "monarch:2026-11-23-jumi",
@@ -3191,7 +3457,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20763",
@@ -3205,7 +3471,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3524",
@@ -3219,7 +3485,7 @@
       "status": "cancelled",
       "status_note": null,
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1906477846688898",
@@ -3233,7 +3499,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:9ea9c23a-a449-4c92-958d-28ab88358821",
@@ -3247,7 +3513,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--kvF8Ae4zypd_ow_N",
@@ -3261,7 +3527,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3435",
@@ -3275,7 +3541,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-24-moon-walker",
@@ -3289,7 +3555,7 @@
       "status": "moved",
       "status_note": "Die Show wird vom Hole44 ins Mikropol verlegt",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "insel:2026-11-24-june-coc",
@@ -3303,7 +3569,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:0024-11-26-glaive",
@@ -3317,7 +3583,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21425",
@@ -3331,7 +3597,21 @@
       "status": "sold_out",
       "status_note": null,
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "lark:7449",
+      "venue": "Lark",
+      "title": "DIZZY DROS",
+      "date": "2026-11-25",
+      "url": "https://larkberlin.com/event/dizzy-dros/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:f75706c6-d0f3-4b56-a821-6fd7e020d43c",
@@ -3345,7 +3625,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P3u15TKSMVhnK7-4CJH",
@@ -3359,7 +3639,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P4YR5-IZBj6dt2Zelfc",
@@ -3373,7 +3653,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "prachtwerk:1459461122116015",
@@ -3387,7 +3667,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "gretchen:3567",
@@ -3401,7 +3681,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82431",
@@ -3415,7 +3695,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:20670",
@@ -3429,7 +3709,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:7171add9-ea50-48c4-bf35-1219b5ac0ba0:2026-11-25",
@@ -3443,7 +3723,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "privatclub:21520",
@@ -3457,7 +3737,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:e9182f02-5d48-4b72-9336-b06b688187af",
@@ -3471,7 +3751,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "neuezukunft:392bc7c8-c27d-4b9d-ade0-7e6260cb2bcc",
@@ -3485,7 +3765,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "donau115:-P--m2A4hmnjnmNTMMBP",
@@ -3499,7 +3779,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "hole:2026-11-26-faroon",
@@ -3513,7 +3793,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "kantine:82463",
@@ -3527,7 +3807,7 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     {
       "id": "lido:2026-11-26-slift",
@@ -3541,7 +3821,105 @@
       "status": "scheduled",
       "status_note": null,
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "neuezukunft:24effdc8-c399-4402-8471-bb122a741888",
+      "venue": "Neue Zukunft",
+      "title": "Lack",
+      "date": "2026-11-27",
+      "url": "https://www.tixforgigs.com/Event/75398",
+      "subtitle": "+ Tonia Reeh + Jacob Bredahl",
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "neuezukunft:642f62f5-0538-4211-84cb-5def5094dae5",
+      "venue": "Neue Zukunft",
+      "title": "The Darts",
+      "date": "2026-11-27",
+      "url": "https://www.tixforgigs.com/de-DE/Event/73522/the-darts-us-live-in-berlin-neue-zukunft",
+      "subtitle": "+ Ara Lil Yoon + Supercheri",
+      "doors": "19:00",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "donau115:-OusSdxCNkmw0bYB3go5",
+      "venue": "Donau115",
+      "title": "TRYON",
+      "date": "2026-11-27",
+      "url": "https://donau115.de/",
+      "subtitle": null,
+      "doors": "19:30",
+      "start": null,
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "hole:2026-11-27-john-coffey",
+      "venue": "Hole44",
+      "title": "John Coffey",
+      "date": "2026-11-27",
+      "url": "https://hole-berlin.de/event/2026-11-27-john-coffey/",
+      "subtitle": "Luther",
+      "doors": null,
+      "start": "20:00",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "insel:2026-11-27-tim-vantol",
+      "venue": "Insel",
+      "title": "Tim Vantol",
+      "date": "2026-11-27",
+      "url": "https://www.inselberlin.de/",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": "20:00",
+      "status": "sold_out",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "prachtwerk:2069053837015947",
+      "venue": "Prachtwerk",
+      "title": "Tiffany Aris",
+      "date": "2026-11-27",
+      "url": "https://www.facebook.com/events/2069053837015947",
+      "subtitle": null,
+      "doors": "19:00",
+      "start": "20:00",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
+    {
+      "id": "privatclub:20207",
+      "venue": "Privatclub",
+      "title": "Rathman",
+      "date": "2026-11-27",
+      "url": "https://privatclub-berlin.de/event/rathman/",
+      "subtitle": "\"Die Goldenen Zwanziger\"",
+      "doors": "19:00",
+      "start": "20:00",
+      "status": "scheduled",
+      "status_note": null,
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
     }
   ]
 }
